@@ -1,7 +1,7 @@
 import React from 'react'
-
+import Medium from '../components/medium'
 const Home = () => {
-    return <h3>HOME</h3>
+    return <Medium />
 }
 
 export default Home
