@@ -3,7 +3,7 @@
     display: flex;
     margin: 0 auto;
     justify-content: center;
-    border-bottom: 4px solid #d2daed;
+    /* border-bottom: 4px solid #2832c2; */
 }
 
 /* Name */
@@ -13,7 +13,7 @@ h1 {
     padding-top: 10px;
     /* padding-bottom: 1px; */
     padding-right: 25px;
-    border-right: 4px solid #d2daed;
+    border-right: 4px solid #2832c2;
     text-align: right;
 }
 .brand {
